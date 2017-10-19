@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "MEAN stack app",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/StephenFalcone/Mean-Stack-App.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
